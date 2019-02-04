@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: travelmaker-env
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: eggpl
+Implementation-Vendor-Id: com.equipbox.travelmaker
+Build-Jdk: 1.8.0_162
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Macchinetta Framework Team
+

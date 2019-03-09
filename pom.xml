@@ -187,7 +187,5 @@
     <module>travelmaker-env</module>
     <module>travelmaker-domain</module>
     <module>travelmaker-web</module>
-    <module>travelmaker-initdb</module>
-    <module>travelmaker-selenium</module>
   </modules>
 </project>
